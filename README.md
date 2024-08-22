@@ -1,13 +1,13 @@
+## Boas vinda ao meu perfil
+
 ## Hi there Miguel Martins👋
 
-<!--estou estudando Alura
-**miguelzin-afk/miguelzin-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando no Alura
+- Estou me desenvolvendo na linguagem javascript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-Here are some ideas to get you started:
+- ## Você pode entrar em contato comigo
 
-- 🔭 I’m currently working on house...
-- 🌱 I’m currently learning to study...
-- 👯 I’m looking to collaborate on in silence...
-- 🤔 I’m looking for help with nothing...
-![] (https://images.app.goo.gl/nfDXcG6V4yHQJZBx5)
--->
+- miguel.rocha.martins@escola.pr.gov.br
+
+  
